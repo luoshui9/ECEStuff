@@ -24,7 +24,7 @@ module mux_4x1_3bit(
     input [2:0]x,[2:0]y,[2:0]z,[2:0]w,
     input [1:0]s,
     output [2:0]f,
-    output reg [1:0]ds
+    output reg [1:0]ds // dummy signals, transfering signal s0 and s1 to LEDs.
     );
     wire[2:0] result0,result1;
     mux_2x1_3bit(
@@ -48,7 +48,11 @@ module mux_4x1_3bit(
          .w(f)
         );
     
-    integer i;
+    //////////////////
+    /*
+    Transfer signal s to the LED 14 and 15 by replacing it with dummy s(ds).
+    */
+    integer i; 
 
     always @(ds) begin
     for (i=0;i<2;i=i+1) begin
