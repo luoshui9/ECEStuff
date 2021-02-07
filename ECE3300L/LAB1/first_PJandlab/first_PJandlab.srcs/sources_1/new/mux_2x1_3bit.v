@@ -23,7 +23,8 @@
 module mux_2x1_3bit(
 input [2:0]x,[2:0]y,
 input s,
-    output [2:0]w
+    output [2:0]w,
+    output reg ds
     );
    
     mux_2x1_simple M0(
@@ -44,6 +45,10 @@ input s,
     .s(s),
     .f(w[2])
     );
+
+    always @(ds) begin
+        ds=s; 
+    end
 
 endmodule
 
