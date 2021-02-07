@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<GenRun Id="synth_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1612322940">
+<GenRun Id="synth_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1612669256">
   <File Type="PA-TCL" Name="mux_4x1_3bit.tcl"/>
   <File Type="RDS-PROPCONSTRS" Name="mux_4x1_3bit_drc_synth.rpt"/>
   <File Type="REPORTS-TCL" Name="mux_4x1_3bit_reports.tcl"/>
@@ -35,6 +35,7 @@
     <Config>
       <Option Name="DesignMode" Val="RTL"/>
       <Option Name="TopModule" Val="mux_4x1_3bit"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
     </Config>
   </FileSet>
   <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">

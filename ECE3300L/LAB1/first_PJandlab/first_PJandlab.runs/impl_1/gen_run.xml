@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<GenRun Id="impl_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1612322989">
+<GenRun Id="impl_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1612669256">
   <File Type="BITSTR-BMM" Name="mux_4x1_3bit_bd.bmm"/>
   <File Type="OPT-METHODOLOGY-DRC" Name="mux_4x1_3bit_methodology_drc_opted.rpt"/>
   <File Type="INIT-TIMING" Name="mux_4x1_3bit_timing_summary_init.rpt"/>
@@ -101,6 +101,7 @@
     <Config>
       <Option Name="DesignMode" Val="RTL"/>
       <Option Name="TopModule" Val="mux_4x1_3bit"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
     </Config>
   </FileSet>
   <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
