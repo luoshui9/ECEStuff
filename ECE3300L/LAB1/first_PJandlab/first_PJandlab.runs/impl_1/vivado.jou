@@ -2,11 +2,11 @@
 # Vivado v2019.2 (64-bit)
 # SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
 # IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
-# Start of session at: Sun Feb  7 13:12:47 2021
-# Process ID: 2964
+# Start of session at: Sun Feb  7 13:20:59 2021
+# Process ID: 12740
 # Current directory: E:/Projects/SchoolGit/ECEStuff/ECE3300L/LAB1/first_PJandlab/first_PJandlab.runs/impl_1
-# Command line: vivado.exe -log mux_2x1_3bit.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source mux_2x1_3bit.tcl -notrace
-# Log file: E:/Projects/SchoolGit/ECEStuff/ECE3300L/LAB1/first_PJandlab/first_PJandlab.runs/impl_1/mux_2x1_3bit.vdi
+# Command line: vivado.exe -log mux_4x1_3bit.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source mux_4x1_3bit.tcl -notrace
+# Log file: E:/Projects/SchoolGit/ECEStuff/ECE3300L/LAB1/first_PJandlab/first_PJandlab.runs/impl_1/mux_4x1_3bit.vdi
 # Journal file: E:/Projects/SchoolGit/ECEStuff/ECE3300L/LAB1/first_PJandlab/first_PJandlab.runs/impl_1\vivado.jou
 #-----------------------------------------------------------
-source mux_2x1_3bit.tcl -notrace
+source mux_4x1_3bit.tcl -notrace
