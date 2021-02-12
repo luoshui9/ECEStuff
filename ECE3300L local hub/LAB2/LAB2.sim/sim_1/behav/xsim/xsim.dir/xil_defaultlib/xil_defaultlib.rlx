@@ -1,0 +1,15 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+E:/Projects/SchoolGit/ECEStuff/ECE3300L local hub/LAB2/LAB2.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+E:/Projects/SchoolGit/ECEStuff/ECE3300L local hub/LAB2/LAB2.srcs/sim_1/new/csa_multiplier_tb.v,1613114327,verilog,,,,csa_multiplier_tb,,,,,,,,
+E:/Projects/SchoolGit/ECEStuff/ECE3300L local hub/LAB2/LAB2.srcs/sim_1/new/simple_cal_tb.v,1613165727,verilog,,,,simple_cal_tb,,,,,,,,
+E:/Projects/SchoolGit/ECEStuff/ECE3300L local hub/LAB2/LAB2.srcs/sources_1/adder_subtractor.v,1612920620,verilog,,E:/Projects/SchoolGit/ECEStuff/ECE3300L local hub/LAB2/LAB2.srcs/sources_1/new/csa_multiplier.v,,adder_subtractor,,,,,,,,
+E:/Projects/SchoolGit/ECEStuff/ECE3300L local hub/LAB2/LAB2.srcs/sources_1/full_adder.v,1612920620,verilog,,E:/Projects/SchoolGit/ECEStuff/ECE3300L local hub/LAB2/LAB2.srcs/sources_1/half_adder.v,,full_adder,,,,,,,,
+E:/Projects/SchoolGit/ECEStuff/ECE3300L local hub/LAB2/LAB2.srcs/sources_1/half_adder.v,1612920620,verilog,,E:/Projects/SchoolGit/ECEStuff/ECE3300L local hub/LAB2/LAB2.srcs/sources_1/new/mq_4bit.v,,half_adder,,,,,,,,
+E:/Projects/SchoolGit/ECEStuff/ECE3300L local hub/LAB2/LAB2.srcs/sources_1/new/csa_multiplier.v,1613115969,verilog,,E:/Projects/SchoolGit/ECEStuff/ECE3300L local hub/LAB2/LAB2.srcs/sources_1/full_adder.v,,csa_multiplier,,,,,,,,
+E:/Projects/SchoolGit/ECEStuff/ECE3300L local hub/LAB2/LAB2.srcs/sources_1/new/mq_4bit.v,1613093356,verilog,,E:/Projects/SchoolGit/ECEStuff/ECE3300L local hub/LAB2/LAB2.srcs/sources_1/new/mux_2x1_8bit.v,,mq_4bit,,,,,,,,
+E:/Projects/SchoolGit/ECEStuff/ECE3300L local hub/LAB2/LAB2.srcs/sources_1/new/mux_2x1_8bit.v,1613161930,verilog,,E:/Projects/SchoolGit/ECEStuff/ECE3300L local hub/LAB2/LAB2.srcs/sources_1/rca_nbit.v,,mux_2x1_8bit,,,,,,,,
+E:/Projects/SchoolGit/ECEStuff/ECE3300L local hub/LAB2/LAB2.srcs/sources_1/new/simple_calc.v,1613161809,verilog,,E:/Projects/SchoolGit/ECEStuff/ECE3300L local hub/LAB2/LAB2.srcs/sim_1/new/simple_cal_tb.v,,simple_calc,,,,,,,,
+E:/Projects/SchoolGit/ECEStuff/ECE3300L local hub/LAB2/LAB2.srcs/sources_1/rca_nbit.v,1612920620,verilog,,E:/Projects/SchoolGit/ECEStuff/ECE3300L local hub/LAB2/LAB2.srcs/sources_1/new/simple_calc.v,,rca_nbit,,,,,,,,
