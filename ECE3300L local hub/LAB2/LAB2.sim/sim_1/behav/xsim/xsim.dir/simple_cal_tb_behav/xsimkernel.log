@@ -2,3 +2,6 @@ Running: xsim.dir/simple_cal_tb_behav/xsimk.exe -simmode gui -wdb simple_cal_tb_
 Design successfully loaded
 Design Loading Memory Usage: 6400 KB (Peak: 6400 KB)
 Design Loading CPU Usage: 46 ms
+Simulation completed
+Simulation Memory Usage: 7048 KB (Peak: 7048 KB)
+Simulation CPU Usage: 46 ms

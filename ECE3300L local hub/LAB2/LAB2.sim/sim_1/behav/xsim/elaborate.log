@@ -1,6 +1,6 @@
 Vivado Simulator 2019.2
 Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
-Running: C:/Xilinx/Vivado/2019.2/bin/unwrapped/win64.o/xelab.exe -wto 3943b9fd3cb34c0db8000465dabad295 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot simple_cal_tb_behav xil_defaultlib.simple_cal_tb xil_defaultlib.glbl -log elaborate.log 
+Running: C:/Xilinx/Vivado/2019.2/bin/unwrapped/win64.o/xelab.exe -wto 3943b9fd3cb34c0db8000465dabad295 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot adderSubtractor_tb_behav xil_defaultlib.adderSubtractor_tb xil_defaultlib.glbl -log elaborate.log 
 Using 2 slave threads.
 Starting static elaboration
 Pass Through NonSizing Optimizer
@@ -12,10 +12,6 @@ Compiling module xil_defaultlib.half_adder
 Compiling module xil_defaultlib.full_adder
 Compiling module xil_defaultlib.rca_nbit_default
 Compiling module xil_defaultlib.adder_subtractor_default
-Compiling module xil_defaultlib.mq_4bit
-Compiling module xil_defaultlib.csa_multiplier_default
-Compiling module xil_defaultlib.mux_2x1_8bit
-Compiling module xil_defaultlib.simple_calc
-Compiling module xil_defaultlib.simple_cal_tb
+Compiling module xil_defaultlib.adderSubtractor_tb
 Compiling module xil_defaultlib.glbl
-Built simulation snapshot simple_cal_tb_behav
+Built simulation snapshot adderSubtractor_tb_behav
