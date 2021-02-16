@@ -27,9 +27,9 @@ module simple_calc(
     output c_out,overflow
     
     );
-    
-    wire [3:0] adderResult;//store adder/subtractor results
-    wire [7:0] multiplierResult; //store multiplier result
+    // op_set = 0 add; 1 subtract; 2,3 multiply
+    wire [3:0] adderResult;	//store adder/subtractor results
+    wire [7:0] multiplierResult; 	//store multiplier result
     
     adder_subtractor #(4) adderSubtractor(
     .x(x),

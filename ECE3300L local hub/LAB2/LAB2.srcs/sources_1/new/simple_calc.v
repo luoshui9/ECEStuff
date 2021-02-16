@@ -46,6 +46,7 @@ module simple_calc(
     .p(multiplierResult)
     );
     
+    // the result is determined by op_set[1] using a 8bit mux.
     mux_2x1_8bit mux(
     .i0({4'b0,adderResult}),
     .i1(multiplierResult),

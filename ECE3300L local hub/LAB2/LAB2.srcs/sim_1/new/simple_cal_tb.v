@@ -43,7 +43,7 @@ module simple_cal_tb(
         #10
         op_sel = 'b01;
         x = 'd0;
-        y = 'd8;
+        y =  4'b0111;
                   
         
        end
