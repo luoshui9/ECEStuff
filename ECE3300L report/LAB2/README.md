@@ -3,11 +3,11 @@
 
 * Testbench output for part1
 
-![testbench result](/image/part1screenshot.png)
+![testbench result](image/part1screenshot.png)
 
 * Block diagram Part2
 
-![block diagram](/image/part1blockdiagram.png)
+![block diagram](image/part1blockdiagram.png)
 
 **Video link:** 
 
